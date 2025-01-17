@@ -1,0 +1,42 @@
+body{
+	background-color: #e1e1e1;
+}
+img[alt="since Display"]{
+		width: 1250px;
+	margin: auto;
+	padding-left: 150px;
+	
+	height: 500px;
+}
+img[alt="promise.display"]
+{
+	padding-top: 50px;
+	padding-left: 200px;
+	height: 400px;
+	width: 500px;
+}
+.container{
+
+	padding-right: 200px;
+gap: 6rem;
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.promise{
+	padding-top: 20px;
+}
+.para{
+	padding-top: 150px;
+}
+p{
+	color:#55381f;
+}
+
+.nav a{
+	color: ;
+	padding-top: 200px;
+}
+h2{
+	font-size: 40px;
+	color: brown;
+}

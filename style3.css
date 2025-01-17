@@ -1,0 +1,94 @@
+body{
+	background: #e1e1e1;
+	}
+img[alt="latte display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="Americano display"]{
+	height: 150px;
+	width:150px;
+}
+
+	img[alt="foam display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="espresso display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="choux display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="redvelvet display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="croissant display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="pistachio display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="french fries display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="mix platter display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="sandwich display"]{
+	height: 150px;
+	width:150px;
+}
+img[alt="dessert display"]{
+	height: 150px;
+	width:150px;
+}
+h2{
+	color: brown;
+}
+.coffee {
+	display: flex;
+	gap: 15px;
+}
+.coffee img{
+	width: 150px;
+	border-radius: 10px;
+	transition: transform 0.3s ease;
+}
+.coffee img:hover{
+	transition: scale(1.1);
+	opacity: 0.8;
+}
+.pastries {
+	display: flex;
+	gap: 15px;
+}
+.pastries img{
+	width: 150px;
+	border-radius: 10px;
+	transition: transform 0.3s ease;
+}
+.pastries img:hover{
+	transition: scale(1.1);
+	opacity: 0.8;
+}
+.snacks {
+	display: flex;
+	gap: 15px;
+}
+.snacks img{
+	width: 150px;
+	border-radius: 10px;
+	transition: transform 0.3s ease;
+}
+.snacks img:hover{
+	transition: scale(1.1);
+	opacity: 0.8;
+}

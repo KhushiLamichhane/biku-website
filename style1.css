@@ -1,0 +1,39 @@
+body{
+	
+	background-image: url("background.png");
+background-size:contain;
+background-repeat: no-repeat;
+background-position: center;
+height: 100vh;
+}
+
+
+img[ alt="mission Display"]{
+	width: 500px;
+	padding-left: 150px;
+	
+}
+
+.container{
+padding: 4rem;
+padding-right: 200px;
+gap: 4rem;
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.our{
+	padding-top:300px;
+}
+
+.mission{
+	padding-right: 150;
+	background-color:#e1e1e1;
+}.nav a{
+	color:white;
+}
+.nav a:hover{
+	color: burlywood;
+}
+h3{
+	color: brown;
+}
